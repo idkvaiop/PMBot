@@ -1,5 +1,6 @@
 #-------------------------------------- https://github.com/m4mallu/PMChatbot ------------------------------------------#
 import os
+import logging
 from Plugins import LOGS, BOT
 
 from pyrogram import Client
