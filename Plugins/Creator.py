@@ -1,7 +1,7 @@
 import logging
 from logging.handlers import RotatingFileHandler
 
-from sample_config import LOG_FILE_NAME
+from config import Config
 
 logging.basicConfig(
     level=logging.INFO,
