@@ -9,6 +9,8 @@ if bool(os.environ.get("ENV", False)):
 else:
     from config import Config
 
+from logging import INFO, FileHandler, StreamHandler, basicConfig, getLogger
+
 # Logging 
 basicConfig(
     format="> %(asctime)s | %(name)s [%(levelname)s] <> %(message)s",
