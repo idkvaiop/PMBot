@@ -3,7 +3,7 @@ import os
 import logging
 from Plugins import LOGS, BOT
 
-from pyrogram import Client
+from pyrogram import Client, idle
 
 if bool(os.environ.get("ENV", False)):
     from sample_config import Config
