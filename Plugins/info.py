@@ -1,4 +1,4 @@
-#-------------------------------------- https://github.com/m4mallu/PMChatbot ------------------------------------------#
+#-------------------------------------- https://github.com/TheDeCoDe/PMBot ------------------------------------------#
 import os
 
 from pyrogram import Client, filters
