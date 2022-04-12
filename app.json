@@ -2,8 +2,8 @@
   "name": "pmchatbot",
   "description": "Personal Message Chatting robot. Create your fork now",
   "keywords": ["telegram", "pm", "chat", "bot", "open", "source"],
-  "website": "https://github.com/m4mallu/PMChatbot",
-  "repository": "https://github.com/m4mallu/PMChatbot",
+  "website": "https://github.com/TheDeCoDe/PMBot",
+  "repository": "https://github.com/TheDeCoDe/PMBot",
   "env": {
         "APP_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
